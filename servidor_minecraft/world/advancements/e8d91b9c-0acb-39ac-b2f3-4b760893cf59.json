@@ -16,6 +16,7 @@
       "minecraft:grove": "2025-03-16 05:10:05 +0000",
       "minecraft:birch_forest": "2025-03-16 05:06:35 +0000",
       "minecraft:lush_caves": "2025-03-16 04:04:59 +0000",
+      "minecraft:dripstone_caves": "2025-03-16 05:45:26 +0000",
       "minecraft:frozen_peaks": "2025-03-16 05:08:37 +0000",
       "minecraft:bamboo_jungle": "2025-03-16 03:59:57 +0000"
     },
@@ -1291,6 +1292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-03-16 05:40:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-03-16 04:54:08 +0000"
@@ -1312,6 +1319,18 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-03-16 04:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-03-16 05:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-16 05:39:25 +0000"
     },
     "done": true
   },
@@ -1417,6 +1436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-03-16 05:40:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-03-16 04:55:04 +0000"
@@ -1438,6 +1463,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 04:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-03-16 05:40:32 +0000"
     },
     "done": true
   },
@@ -1465,9 +1496,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-16 05:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 04:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-16 05:45:45 +0000"
     },
     "done": true
   },
@@ -1513,9 +1556,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-03-16 05:40:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-16 04:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-03-16 05:40:32 +0000"
     },
     "done": true
   },
