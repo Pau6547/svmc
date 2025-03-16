@@ -142,3 +142,29 @@
 [05:25:09] [Server thread/INFO]: bnfumao left the game
 [05:29:26] [Server thread/INFO]: bnfumao[/127.181.17.171:35753] logged in with entity id 28546 at (-719.36978588814, 178.0, 538.5413404960598)
 [05:29:26] [Server thread/INFO]: bnfumao joined the game
+[05:31:33] [Server thread/INFO]: bnfumao fell from a high place
+[05:31:49] [Server thread/INFO]: _Raiver_ was impaled on a stalagmite
+[05:32:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:32:11] [Server thread/INFO]: settings<--[HERE]
+[05:32:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:32:14] [Server thread/INFO]: austes<--[HERE]
+[05:32:29] [Server thread/INFO]: Teleported _Raiver_ to Pau_jkl
+[05:32:31] [Server thread/INFO]: _Raiver_ fell from a high place
+[05:32:40] [Server thread/INFO]: Pau_jkl fell from a high place
+[05:33:00] [Server thread/INFO]: Teleported 3 entities to bnfumao
+[05:34:26] [Server thread/INFO]: bnfumao was slain by Pau_jkl
+[05:34:33] [Server thread/INFO]: Pau_jkl was slain by bnfumao
+[05:34:43] [Server thread/INFO]: Teleported Pau_jkl to bnfumao
+[05:34:53] [Server thread/INFO]: Gave 32 [Iron Ingot] to Pau_jkl
+[05:35:40] [Server thread/INFO]: Teleported _Raiver_ to Pau_jkl
+[05:35:49] [Server thread/INFO]: Pau_jkl was slain by _Raiver_
+[05:35:55] [Server thread/INFO]: bnfumao was doomed to fall by _Raiver_
+[05:36:03] [Server thread/INFO]: Incorrect argument for command
+[05:36:03] [Server thread/INFO]: tp @/tp @a _raiver_<--[HERE]
+[05:36:13] [Server thread/INFO]: Teleported 3 entities to _Raiver_
+[05:37:20] [Server thread/INFO]: bnfumao was slain by Pau_jkl
+[05:39:25] [Server thread/INFO]: Pau_jkl has made the advancement [Suit Up]
+[05:39:49] [Server thread/INFO]: _Raiver_ lost connection: Disconnected
+[05:39:49] [Server thread/INFO]: _Raiver_ left the game
+[05:40:03] [Server thread/INFO]: _Raiver_[/127.224.241.120:43797] logged in with entity id 31392 at (-736.7554179674597, 151.0, 573.8192593868874)
+[05:40:03] [Server thread/INFO]: _Raiver_ joined the game
