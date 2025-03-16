@@ -13,8 +13,10 @@
       "minecraft:sparse_jungle": "2025-03-16 05:05:31 +0000",
       "minecraft:jungle": "2025-03-16 05:01:32 +0000",
       "minecraft:river": "2025-03-16 04:59:02 +0000",
+      "minecraft:grove": "2025-03-16 05:10:06 +0000",
       "minecraft:birch_forest": "2025-03-16 05:06:08 +0000",
-      "minecraft:lush_caves": "2025-03-16 03:39:26 +0000"
+      "minecraft:lush_caves": "2025-03-16 03:39:26 +0000",
+      "minecraft:frozen_peaks": "2025-03-16 05:07:20 +0000"
     },
     "done": false
   },
@@ -890,9 +892,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-16 05:07:47 +0000",
       "mutton": "2025-03-16 05:03:30 +0000",
       "rotten_flesh": "2025-03-16 04:28:24 +0000",
       "cooked_mutton": "2025-03-16 04:28:20 +0000",
+      "glow_berries": "2025-03-16 05:11:57 +0000",
       "cooked_beef": "2025-03-16 04:57:42 +0000"
     },
     "done": false
@@ -1413,9 +1417,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-03-16 05:13:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-03-16 05:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-16 05:13:35 +0000"
     },
     "done": true
   },
@@ -1425,9 +1441,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-03-16 05:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-16 05:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-03-16 05:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-16 05:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-16 05:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-16 05:06:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-03-16 05:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-03-16 05:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-16 05:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-03-16 05:13:35 +0000"
     },
     "done": true
   },
